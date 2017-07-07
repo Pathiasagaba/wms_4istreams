@@ -36,6 +36,12 @@
 		  <td>
 		  <input type="Password" id="Password" name="Password" placeholder="Create a Password" required="required" >
 		  </td>
+		<tr>
+			<td>Account type
+			<td><input type="text"  name="type" id="type" placeholder="eg.admministrator" required></td>
+			</td>
+		</tr>
+		
 	
 				<br>
 		</tr>
